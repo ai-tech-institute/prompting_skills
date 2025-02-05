@@ -1,5 +1,3 @@
-# AI Prompting (1/10): Essential Foundation Techniques Everyone Should Know
-
 **Credits to: [Orginal Post](https://www.reddit.com/r/PromptEngineering/s/PvHwfBau5x)**
 
 AI Prompting (1/10): Essential Foundation Techniques Everyone Should Know
