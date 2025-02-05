@@ -1,5 +1,3 @@
-# AI Prompting (2/10): Chain-of-Thought Prompting—4 Methods for Better Reasoning
-
 **Credits to: [Original Post](https://www.reddit.com/r/PromptEngineering/s/XQ8qjqJlrF)
 
 # AI Prompting (2/10): Chain-of-Thought Prompting—4 Methods for Better Reasoning
