@@ -1,4 +1,4 @@
-**Credits to [Original Post](https://www.reddit.com/r/PromptEngineering/comments/1iiye3s/ai_prompting_710_data_analysis_methods_frameworks/?share_id=tJ5uFE7HgEPMTlAnIr5Ok&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)
+**Credits to [Original Post](https://www.reddit.com/r/PromptEngineering/comments/1iiye3s/ai_prompting_710_data_analysis_methods_frameworks/?share_id=tJ5uFE7HgEPMTlAnIr5Ok&utm_content=2&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22)**
 
 # AI Prompting (7/10): Data Analysis — Methods, Frameworks & Best Practices Everyone Should Know
 
